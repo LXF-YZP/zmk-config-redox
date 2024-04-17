@@ -55,14 +55,14 @@ layers:
   - {t: \, s: '|'}
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
+  - $$mdi:arrow-down-bold$$
+  - hotkey
   - {t: '$$mdi:keyboard-return$$', h: '$$mdi:apple-keyboard-command$$'}
   - number
-  - {t: '$$mdi:arrow-down-bold$$', h: toggle}
-  - hotkey
   - $$mdi:keyboard-space$$
-  - $$mdi:apple-keyboard-shift$$
-  - symbol
   - {t: '$$mdi:backspace$$', type: backspace}
+  - symbol
+  - $$mdi:apple-keyboard-shift$$
   number:
   - {t: F12, type: held}
   - F1
@@ -119,9 +119,9 @@ layers:
   - KP 0
   - KP DOT
   - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: held}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -245,9 +245,9 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: held}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
